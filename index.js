@@ -24,7 +24,7 @@ function iLoveTheBeatles(number) {
   let i = 0;
   do {
     i++;
-    return i;
+    return "I love the Beatles!";
   } while (array.length <= 7 );
   return array;
 }
