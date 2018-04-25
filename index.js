@@ -23,7 +23,7 @@ function iLoveTheBeatles(number) {
   var array = [];
   let i = 7;
   do {
-    return "I love the Beatles!";
+    
   } while (i < 15);
     return array;
 }
