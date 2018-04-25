@@ -28,5 +28,4 @@ function iLoveTheBeatles(number) {
     if ( i === 7);
   } while (i < 15);
   return array;
-  if (i === 7)
 }
